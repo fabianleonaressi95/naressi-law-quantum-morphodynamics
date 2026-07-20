@@ -1,7 +1,7 @@
 # ==============================================================================
 # UNIFIED HAMILTONIAN SIMULATION: BLACK HOLE GEOMETRY & QUASICRYSTAL RETICULE
-# Framework: Naressi Quantum Field Law - Morphodynamics Simulation
-# Proponent: Fabian Leo Naressi
+# Framework: Naressi-Zuliani Quantum Field Law - Morphodynamics Simulation
+# Proponent: Fabian Leo Naressi, Davide Zuliani
 # ==============================================================================
 
 import numpy as np
